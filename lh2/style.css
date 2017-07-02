@@ -1,0 +1,56 @@
+body {
+margin-left:auto;
+margin-right:auto;
+text-align:left;
+font-size:18pt;
+width:85%;
+background-color:#000;
+color:#D4D4D4;
+font-family:sans-serif;
+text-indent:0;
+}
+
+p {
+text-indent:2em;
+}
+
+p.cimg {
+font-size: 13.5pt;
+text-indent: 0;
+text-align: center;
+}
+
+p.pagination {
+font-size: 24pt;
+text-indent: 0;
+text-align: center;
+}
+
+h1,h2,h3,h4,h5,h6,hr {
+text-align:center;
+}
+
+h2 {
+/*margin-bottom: 72pt;*/
+margin-bottom: 54pt;
+}
+
+a:link,a:active {
+color:#FF0;
+}
+a:visited {
+color:#F0F;
+}
+
+hr { 
+background: url('hr.png') no-repeat top center;
+background-size: contain;
+display: block;
+height: 75px;
+border: 0;
+position: relative;
+}
+
+li {
+margin-bottom: 9pt;
+}
